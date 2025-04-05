@@ -1,0 +1,12 @@
+name: sdg-amr-explorer
+title: sdg-amr-explorer
+username: gedb
+account: gedb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12660705
+bundleId: 9693555
+url: https://gedb.shinyapps.io/sdg-amr-explorer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,26 @@
+meta:
+  name: Global Economic Dynamics and the Biosphere, Royal Swedish Academy of Sciences
+  link: https://www.gedb.se/
+
+logo: 
+  small: logo-gedb.png
+  medium: logo-gedb.png
+  large: logo-gedb.png
+
+
+
+color:
+  palette:
+    blue: "#338e9f"
+    pink: "#FF3D7F"
+
+  primary: blue
+
+  danger: pink
+
+
+typography:
+  fonts:
+    - family: Open Sans
+      source: google
+  base: Open Sans

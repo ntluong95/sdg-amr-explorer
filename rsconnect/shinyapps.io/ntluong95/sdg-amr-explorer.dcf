@@ -1,0 +1,12 @@
+name: sdg-amr-explorer
+title: sdg-amr-explorer
+username: ntluong95
+account: ntluong95
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12131781
+bundleId: 8885266
+url: https://ntluong95.shinyapps.io/sdg-amr-explorer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
